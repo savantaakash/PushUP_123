@@ -55,5 +55,11 @@ public class MainActivity extends AppCompatActivity {
     private void TestUpload(){
         int i;
         System.out.println("hi");
+
+        int j=10;
+        int k=20;
+        int m;
+        m=j+k;
+        System.out.println(m);
     }
 }
